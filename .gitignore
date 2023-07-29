@@ -1,0 +1,8 @@
+/.idea
+/**/target
+/**/*.iml
+/**/mvnw
+/**/*.cmd
+/logs
+/**/logs
+*.http
